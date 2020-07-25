@@ -1,3 +1,3 @@
 # DevHub
 
-A repository of APEX hints/tips/guides.
+A repository of APEX hints/tips/guides/links.
