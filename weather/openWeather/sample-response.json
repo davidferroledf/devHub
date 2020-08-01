@@ -1,0 +1,272 @@
+{
+    "lat": 33.44,
+    "lon": -94.04,
+    "timezone": "America/Chicago",
+    "timezone_offset": -18000,
+    "current": {
+        "dt": 1596052574,
+        "sunrise": 1596022014,
+        "sunset": 1596071887,
+        "temp": 305.51,
+        "feels_like": 307.29,
+        "pressure": 1014,
+        "humidity": 52,
+        "dew_point": 294.39,
+        "uvi": 10.67,
+        "clouds": 1,
+        "visibility": 10000,
+        "wind_speed": 3.6,
+        "wind_deg": 230,
+        "weather": [{
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
+        }]
+    },
+    "minutely": [{
+            "dt": 1596052620,
+            "precipitation": 0
+        },
+        {
+            "dt": 1596052680,
+            "precipitation": 0
+        },
+        {
+            "dt": 1596052740,
+            "precipitation": 0
+        },
+        {
+            "dt": 1596052800,
+            "precipitation": 0
+        },
+        {
+            "dt": 1596052860,
+            "precipitation": 0
+        },
+        {
+            "dt": 1596052920,
+            "precipitation": 0
+        },
+        {
+            "dt": 1596052980,
+            "precipitation": 0
+        },
+        {
+            "dt": 1596053040,
+            "precipitation": 0
+        },
+        {
+            "dt": 1596053100,
+            "precipitation": 0
+        },
+        {
+            "dt": 1596053160,
+            "precipitation": 0
+        },
+        {
+            "dt": 1596053220,
+            "precipitation": 0
+        },
+        {
+            "dt": 1596053280,
+            "precipitation": 0
+        },
+        {
+            "dt": 1596053340,
+            "precipitation": 0
+        },
+        {
+            "dt": 1596053400,
+            "precipitation": 0
+        },
+        {
+            "dt": 1596053460,
+            "precipitation": 0
+        },
+        {
+            "dt": 1596053520,
+            "precipitation": 0
+        },
+        {
+            "dt": 1596053580,
+            "precipitation": 0
+        },
+        {
+            "dt": 1596053640,
+            "precipitation": 0
+        },
+        {
+            "dt": 1596053700,
+            "precipitation": 0
+        },
+        {
+            "dt": 1596053760,
+            "precipitation": 0
+        },
+        {
+            "dt": 1596053820,
+            "precipitation": 0
+        },
+        {
+            "dt": 1596053880,
+            "precipitation": 0
+        },
+        {
+            "dt": 1596053940,
+            "precipitation": 0
+        },
+        {
+            "dt": 1596054000,
+            "precipitation": 0
+        },
+        {
+            "dt": 1596054060,
+            "precipitation": 0
+        },
+        {
+            "dt": 1596054120,
+            "precipitation": 0
+        },
+        {
+            "dt": 1596054180,
+            "precipitation": 0
+        },
+        {
+            "dt": 1596054240,
+            "precipitation": 0
+        },
+        {
+            "dt": 1596054300,
+            "precipitation": 0
+        },
+        {
+            "dt": 1596054360,
+            "precipitation": 0
+        },
+        {
+            "dt": 1596054420,
+            "precipitation": 0
+        },
+        {
+            "dt": 1596054480,
+            "precipitation": 0
+        },
+        {
+            "dt": 1596054540,
+            "precipitation": 0
+        },
+        {
+            "dt": 1596054600,
+            "precipitation": 0
+        },
+        {
+            "dt": 1596054660,
+            "precipitation": 0
+        },
+        {
+            "dt": 1596054720,
+            "precipitation": 0
+        },
+        {
+            "dt": 1596054780,
+            "precipitation": 0
+        },
+        {
+            "dt": 1596054840,
+            "precipitation": 0
+        },
+        {
+            "dt": 1596054900,
+            "precipitation": 0
+        },
+        {
+            "dt": 1596054960,
+            "precipitation": 0
+        },
+        {
+            "dt": 1596055020,
+            "precipitation": 0
+        },
+        {
+            "dt": 1596055080,
+            "precipitation": 0
+        },
+        {
+            "dt": 1596055140,
+            "precipitation": 0
+        },
+        {
+            "dt": 1596055200,
+            "precipitation": 0
+        },
+        {
+            "dt": 1596055260,
+            "precipitation": 0
+        },
+        {
+            "dt": 1596055320,
+            "precipitation": 0
+        },
+        {
+            "dt": 1596055380,
+            "precipitation": 0
+        },
+        {
+            "dt": 1596055440,
+            "precipitation": 0
+        },
+        {
+            "dt": 1596055500,
+            "precipitation": 0
+        },
+        {
+            "dt": 1596055560,
+            "precipitation": 0
+        },
+        {
+            "dt": 1596055620,
+            "precipitation": 0
+        },
+        {
+            "dt": 1596055680,
+            "precipitation": 0
+        },
+        {
+            "dt": 1596055740,
+            "precipitation": 0
+        },
+        {
+            "dt": 1596055800,
+            "precipitation": 0
+        },
+        {
+            "dt": 1596055860,
+            "precipitation": 0
+        },
+        {
+            "dt": 1596055920,
+            "precipitation": 0
+        },
+        {
+            "dt": 1596055980,
+            "precipitation": 0
+        },
+        {
+            "dt": 1596056040,
+            "precipitation": 0
+        },
+        {
+            "dt": 1596056100,
+            "precipitation": 0
+        },
+        {
+            "dt": 1596056160,
+            "precipitation": 0
+        },
+        {
+            "dt": 1596056220,
+            "precipitation": 0
+        }
+    ]
+}
